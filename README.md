@@ -55,7 +55,7 @@ For CSS, use this styles:
 For the HTML:
 ```html
 <div class="t">
-	<div class="mn">
+	<div class="mn"> 
 		<img src="yourimagesource">
 	</div>
 	<div class="view">
